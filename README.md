@@ -1,2 +1,2 @@
-# Spring-Java-and-Angular
-Back-End Java with Spring (CRUD) and Angular
+# Spring-Java-CRUD-api
+Back-End Java with Spring (CRUD)
